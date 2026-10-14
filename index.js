@@ -22,16 +22,20 @@
 //         ${numeroGrande}
 //             `);
 
-let soma = 6 + 7
-let subtracao = 10 - 2
-let multiplicacao = 6 * 7
-let divisao = 67 / 2
-let restoDiv = 67 % 2
-console.log(`
-    ${soma}
-    ${subtracao}
-    ${multiplicacao}
-    ${divisao}
-    ${restoDiv}
-    `
-);
+// let soma = 6 + 7
+// let subtracao = 10 - 2
+// let multiplicacao = 6 * 7
+// let divisao = 67 / 2
+// let restoDiv = 67 % 2
+// console.log(`
+//     ${soma}
+//     ${subtracao}
+//     ${multiplicacao}
+//     ${divisao}
+//     ${restoDiv}
+//     `
+// );
+console.log('67' == 67);
+console.log('67' === 67);
+
+
