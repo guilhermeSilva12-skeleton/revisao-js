@@ -35,7 +35,31 @@
 //     ${restoDiv}
 //     `
 // );
-console.log('67' == 67);
-console.log('67' === 67);
+// console.log('67' == 67);
+// console.log('67' === 67);
+
+    //19/10
+    // const resultado = "6" + 7
+    // console.log(resultado);
+    // console.log(typeof resultado);
+
+    // const resultado = '10' - 2
+    // console.log(resultado);
+    // console.log(typeof resultado);
+    
+    // const txtDecimal = '57.42'
+    // const convertido = Number(txtDecimal)
+    // const total = convertido + 10
+    // console.log(total)
+    
+    console.log(Boolean(0));
+    console.log(Boolean(""));
+    console.log(Boolean(100));
+    console.log(Boolean("gato"));
+  
+
+    
+    
+    
 
 
