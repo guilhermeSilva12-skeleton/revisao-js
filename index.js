@@ -51,13 +51,23 @@
     // const convertido = Number(txtDecimal)
     // const total = convertido + 10
     // console.log(total)
-    
-    console.log(Boolean(0));
-    console.log(Boolean(""));
-    console.log(Boolean(100));
-    console.log(Boolean("gato"));
-  
 
+    // console.log(Boolean(0));
+    // console.log(Boolean(""));
+    // console.log(Boolean(100));
+    // console.log(Boolean("gato"));
+
+    // let saldo = 67
+    // saldo += 67
+    // saldo -= 67
+    // saldo *= 67
+    // saldo /= 67
+    // console.log(saldo);
+
+    let idade = 22
+    const mensagem = idade >= 18 ? 'pode' : 'nao pode' 
+    const aposentado = idade >= 60 ? 'aposenta' : 'vai trabalhar'
+    console.log(mensagem + " dirigir " + " " + aposentado + " voce pode aposentar");
     
     
     
