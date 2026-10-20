@@ -64,12 +64,31 @@
     // saldo /= 67
     // console.log(saldo);
 
-    let idade = 22
-    const mensagem = idade >= 18 ? 'pode' : 'nao pode' 
-    const aposentado = idade >= 60 ? 'aposenta' : 'vai trabalhar'
-    console.log(mensagem + " dirigir " + " " + aposentado + " voce pode aposentar");
+    // let idade = 22
+    // const mensagem = idade >= 18 ? 'pode' : 'nao pode' 
+    // const aposentado = idade >= 60 ? 'aposenta' : 'vai trabalhar'
+    // console.log(mensagem + " dirigir " + " " + aposentado + " voce pode aposentar");
     
+    // const semaforo = 'vermelho';
+    // switch(semaforo){
+    //     case 'vermelho': console.log('pare')
+    //     break;
+    //     case 'amarelo': console.log('atenção')
+    //     break;
+    //     case 'verde': console.log('passa');
+    //     break;
+    // }
     
+    // const frutas = ["uva ", 'morango' ," limão" ]
+    // for (const fruta of frutas){
+    //     console.log("fruta da vez " + fruta);
+    // }
+    
+    let j = 0
+    while (j < 3){
+        console.log('valor de j '+ j);
+        j--;
+    }
     
 
 
