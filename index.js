@@ -139,4 +139,11 @@
 // figurinha.forEach((figurinha)=> console.log(figurinha + ' tenho essa figurinha'))
 
 // atividade 9
+// const numeros =[, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
+// const filtro = numeros.filter((filtro)=> filtro % 2 !== 0).map((filtro) => filtro * filtro)
+// console.log(filtro)
 
+// atividade 10
+// const lista = [1, 2, 3, 4, 5, 6]
+// const filtro = lista.filter((filtro)=> filtro * 2 ).map((filtro)=> filtro + filtro )
+// console.log(filtro);
