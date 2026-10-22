@@ -147,3 +147,20 @@
 // const lista = [1, 2, 3, 4, 5, 6]
 // const filtro = lista.filter((filtro)=> filtro * 2 ).map((filtro)=> filtro + filtro )
 // console.log(filtro);
+
+//atividade 21/10
+// const carrinho = [10,5,20.5,30]
+// const total =  carrinho.reduce((acc, p )=>  acc + p, 0)
+// console.log(total)
+// const nomes = ['Laura',' Guilherme']
+// nomes.forEach(n => console.log(`olá ${n}!`))
+
+// const numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+// const resultado = numeros.filter(n => n % 2 === 0).map(n => n  * 5)
+// console.log(resultado);
+const a = [1, 2]
+const b = [3, 4]
+const c = [...a, ...b]
+const user = {nome: "laura", idade: 15}
+const {nome ,idade} = user
+console.log(nome);
